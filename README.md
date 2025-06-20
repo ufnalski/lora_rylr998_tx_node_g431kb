@@ -1,4 +1,4 @@
-# RAYAX RYLR998 LoRa radio TX node (STM32G431KB)
+# REYAX RYLR998 LoRa radio TX node (STM32G431KB)
 An MVP for LoRa communication distance testing - just a few lines of code that sends periodically a predefined message with a timestamp. The complementary RX node is available [here](https://github.com/ufnalski/lora_rylr998_rx_node_g431kb). Modules with AT command support are usually user-friendly, and it was no different this time. Enjoy fast/rapid prototyping of a communication interface for your device and get ready for a walk ahead, which can hopefully be a couple kilometers long :slightly_smiling_face:
 
 ![RAYAX RYLR998 LoRa radio TX and RX nodes](/Assets/Images/reyax_ryrl998_lora_in_action.jpg)
@@ -7,9 +7,9 @@ An MVP for LoRa communication distance testing - just a few lines of code that s
 Don't worry :slightly_smiling_face: Just log in to MyST and hit Alt-K to generate /Drivers/CMCIS/ and /Drivers/STM32G4xx_HAL_Driver/ based on the .ioc file. After a couple of seconds your project will be ready for building.
 
 # Docs and libs
-* [RAYAX RYLR998 868/915MHz LoRa Antenna Transceiver Module](https://reyax.com/products/RYLR998) (REYAX)
+* [REYAX RYLR998 868/915MHz LoRa Antenna Transceiver Module](https://reyax.com/products/RYLR998) (REYAX)
 * [AT Command Manual](https://reyax.com//upload/products_download/download_file/LoRa_AT_Command_RYLR998_RYLR498_EN.pdf) (REYAX)
-* [RAYAX RYLR998 Datasheet](https://reyax.com//upload/products_download/download_file/RYLR998_EN.pdf) (REYAX)
+* [REYAX RYLR998 Datasheet](https://reyax.com//upload/products_download/download_file/RYLR998_EN.pdf) (REYAX)
 * [How to use RYLR998 LORA module with Arduino](https://projecthub.arduino.cc/Dziubym/how-to-use-rylr998-lora-module-with-arduino-496504) (Dziubym)
 * [Arduino meets RYLR998: A Comprehensive Guide to LoRa Module Integration](https://www.youtube.com/watch?v=LiWlPERp1ec) (Mario's Ideas)
 * [LoRa Based Project Using STM32](https://github.com/UsefulElectronics/stm32-rylr998-lora-transceiver) (Ward Almasarani, UsefulElectronics)
